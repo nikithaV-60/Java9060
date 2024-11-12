@@ -1,7 +1,7 @@
 //    100523729060
 //    V NIKITHA 
 /*
-     This program is used to calculate DOB or Age based on what the user gives as input .
+     This program is used to calculate DOB or Age w.r.t a reference date, based on what the user gives as input .
      i.e. if DOB is given it calculates Age in years, months and days & DOB when the age is given 
  */
 import java.time.LocalDate;
